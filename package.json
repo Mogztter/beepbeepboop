@@ -1,0 +1,25 @@
+{
+  "name": "beepbeepboop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "browser": "index.umd.js",
+  "module": "index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mogztter/beepbeepboop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mogztter/beepbeepboop/issues"
+  },
+  "homepage": "https://github.com/Mogztter/beepbeepboop#readme",
+  "devDependencies": {
+    "rollup": "^2.14.0"
+  }
+}
